@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Nikita Zvonarev's homepage
 permalink: /about/
 ---
 
